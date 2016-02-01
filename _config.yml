@@ -64,9 +64,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Weibo
-#weibo_user: http://weibo.com/JausHwang
-#dribbble_user:
-#weibo_share: true
+weibo_user: http://weibo.com/JausHwang
+dribbble_user:
+weibo_share: true
 
 # Github repositories
 github_user:
