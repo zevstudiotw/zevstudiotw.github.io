@@ -5,3 +5,5 @@ date: 2016-02-01 13:01:17 +0800
 comments: true
 categories: 
 ---
+
+RT, 这只是一篇简单的静态博客测试文章！
